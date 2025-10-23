@@ -79,7 +79,19 @@ EL 301 Project (1:00-2:30PM)
       <p>Address: Brgy. New Tambo, Katipunan, Zamboanga Del Norte</p>
     </div>
 
-    
+         <div class="section">
+    <h2>Personal Info</h2>
+    <p><strong>Age:</strong> 23</p>
+    <p><strong>Gender:</strong> Female</p>
+    <p><strong>Birth Date:</strong> June 19, 2002</p>
+    <p><strong>Birth Place:</strong> Brgy. Bato Siay, Zamboanga Sibugay</p>
+    <p><strong>Civil Status:</strong> Single</p>
+    <p><strong>Citizenship:</strong> Filipino</p>
+    <p><strong>Religion:</strong> Roman Catholic</p>
+    <p><strong>Weight:</strong> 51 kg</p>
+	<p><strong>Height:</strong> 5'1"</p>
+  </div>
+  
     <div class="section">
       <h2>Professional Summary</h2>
       <p class="indent-first-line">Motivated and detail-oriented Web Developer with hands-on experience in creating responsive and user-friendly websites. 
